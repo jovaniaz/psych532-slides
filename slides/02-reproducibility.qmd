@@ -52,7 +52,7 @@ Ioannidis 2005, PLoS Medicine
 
 - The main reason is the reliance on p-values for assessing the truth of scientific hypotheses.
 - PPV: "positive predictive value", the post-study probability that a research finding is true.
-- I.e., the chance it would replicate/generalize.
+- i.e., the chance it would replicate/generalize.
 
 ::: fragment
 ::: tiny
